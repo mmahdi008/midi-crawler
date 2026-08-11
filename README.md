@@ -1,6 +1,7 @@
 # Midi Crawler 🦎
-
 > **One-click Googlebot Smartphone emulation for technical SEO audits.**
+<img width="819" height="302" alt="midi crawler large promo" src="https://github.com/user-attachments/assets/3275f41f-4662-46ec-9b55-cfe06337e236" />
+
 
 **Midi Crawler** is a lightweight Chrome extension (Manifest V3) designed for technical SEO professionals, web developers, and site auditors. It instantly configures your active browser tab to mirror how Googlebot Mobile crawls and renders web pages with JavaScript disabled.
 
@@ -16,6 +17,11 @@
 ---
 
 ## 🛠️ How to Use
+<img width="311" height="297" alt="Screenshot 1405-05-18 at 18 30 09" src="https://github.com/user-attachments/assets/fa08abb0-94c6-4f06-9714-f3b2167d66e8" />
+<img width="311" height="292" alt="Screenshot 1405-05-18 at 18 30 00" src="https://github.com/user-attachments/assets/9fc48616-84dc-4e9a-ba25-af88de36caea" />
+<img width="314" height="297" alt="Screenshot 1405-05-18 at 18 29 50" src="https://github.com/user-attachments/assets/2e33bf73-bd79-467f-a20e-68edd75cfc75" />
+
+
 
 1. Click the **Midi Crawler** icon in your browser toolbar to activate Googlebot mode.
 2. The active tab will reload automatically with Googlebot Mobile user-agent headers and JavaScript disabled.
