@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Midi crawler",
+  "short_name": "SSR checker",
+  "version": "1.0.0",
+  "description": "One-click toggle to inspect your pages exactly as Googlebot sees them. Built by Mahdi Asgari (mmahdiasgari.ir).",
+  "icons": {
+    "16": "/icons/favicon-16x16.png",
+    "48": "/icons/favicon-32x32.png",
+    "128": "/icons/android-chrome-192x192.png"
+  },
+  "action": {
+    "default_title": "Midi crawler",
+    "default_icon": {
+      "16": "/icons/favicon-16x16.png",
+      "48": "/icons/favicon-32x32.png"
+    }
+  },
+  "permissions": [
+    "declarativeNetRequest",
+    "contentSettings",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
